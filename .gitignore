@@ -1,2 +1,6 @@
-.venv
-.idea
+# Ignore PyCharm project settings
+.idea/
+
+# Ignore virtual environment directories
+.venv/
+venv/
